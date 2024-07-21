@@ -37,12 +37,12 @@ const Footer = () => {
                 <div className="flex gap-5 mt-10 flex-col">
                     <div className="flex justify-center items-center gap-3">
                         <MdEmail className="text-[#73CF5C] w-10 h-10" />
-                        <p className="font-Tektur text-white mt-2">siam62349@gamil.com</p>
+                        <p className="font-Tektur text-white mt-2">ap937701@gamil.com</p>
                     </div>
 
                     <div className="flex justify-center items-center gap-3">
                         <MdCall className="text-[#73CF5C] w-10 h-10" />
-                        <p className="font-Tektur text-white mt-2">+880 1636-446338</p>
+                        <p className="font-Tektur text-white mt-2">+6392006091</p>
                     </div>
                 </div>
             </div>
